@@ -1,6 +1,6 @@
 {
   "name": "feasibility-gate",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "可行性与合规闸门：小白用 AI agent 开发前的开发/运维难度与中国大陆合规审核硬性闸门。",
   "author": {
     "name": "warsen-lab",

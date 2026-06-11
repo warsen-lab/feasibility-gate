@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "可行性与合规闸门 — 小白用 AI agent 开发前，把关开发/运维难度与中国大陆合规审核，引导到简单可部署的方案。",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
     {
       "name": "feasibility-gate",
       "source": "./",
       "description": "在小白动手写代码前做一次可行性 + 合规硬性闸门，引导到最简单、最容易自己跑起来和部署的方案。",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": { "name": "warsen-lab" },
       "homepage": "https://github.com/warsen-lab/feasibility-gate",
       "keywords": ["skill", "feasibility", "compliance", "beginner", "vibe-coding", "china"]

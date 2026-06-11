@@ -4,7 +4,7 @@
 
 适用 [Claude Code](https://code.claude.com)、以及任何兼容 [agentskills.io](https://agentskills.io) SKILL.md 标准的 agent（Cursor / Codex / Gemini CLI 等）。
 
-当前版本：**v1.0.0**（见 [CHANGELOG](./CHANGELOG.md)）
+当前版本：**v1.1.0**（见 [CHANGELOG](./CHANGELOG.md)）
 
 ## 它解决什么
 
@@ -60,7 +60,7 @@
 3. `CHANGELOG.md` 增加版本条目
 
 ```bash
-git tag v1.0.0 && git push --tags
+git tag v1.1.0 && git push --tags
 ```
 
 > 注意：版本检查读取的是 `main` 分支的 `VERSION` 文件，push 到 main 后用户即可被提醒。

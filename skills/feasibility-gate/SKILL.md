@@ -1,6 +1,6 @@
 ---
 name: feasibility-gate
-version: 1.0.0
+version: 1.1.0
 description: 当非技术背景的小白/新手准备用 AI agent 开发一个程序、APP、网站、小工具、爬虫、电商或内容平台时使用——在头脑风暴出方案之后、动手写实现代码之前，对方案做一次"可行性与合规闸门"检视；以及开发完成后、交付/上线/售卖之前做强制代码安全检查。涵盖：不懂安装/运行/部署、纠结选什么技术栈和框架、方案可能涉及经营资质（个体户/公司）、ICP 备案、支付资质（微信/支付宝收款）、内容审核或数据合规、想把软件卖给别人/收费变现（咸鱼等平台售卖、激活码、订阅）、担心密钥明文泄露被盗刷/被破解、担心走弯路或上线后被封。Use when a beginner is about to build, sell, or ship something with AI agents and needs a buildability + monetization + China-compliance + code-security gate.
 ---
 
@@ -8,7 +8,7 @@ description: 当非技术背景的小白/新手准备用 AI agent 开发一个�
 
 ## 🔄 版本与更新检查（启动时先做一次，非阻断）
 
-**当前版本**：见本文件 frontmatter 的 `version` 字段（v1.0.0）。
+**当前版本**：见本文件 frontmatter 的 `version` 字段（v1.1.0）。
 
 每次被调用时，先做一次轻量级版本检查（**每个会话只做一次；失败/离线就静默跳过；绝不因此阻断正事**）：
 
